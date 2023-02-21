@@ -1,4 +1,4 @@
-# UnityImageCloudVision
+# UnityPapagoTranslater
 * Korean to English Translation
 * Naver Papago API (https://developers.naver.com/docs/papago/README.md)
 
